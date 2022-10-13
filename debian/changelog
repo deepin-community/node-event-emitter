@@ -1,0 +1,38 @@
+node-event-emitter (0.3.5-3) unstable; urgency=medium
+
+  * Team upload
+  * Fix GitHub tags regex
+  * Update standards version to 4.6.0, no changes needed.
+
+ -- Yadd <yadd@debian.org>  Fri, 15 Oct 2021 14:17:17 +0200
+
+node-event-emitter (0.3.5-2) unstable; urgency=medium
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Update standards version to 4.1.1, no changes needed.
+
+  [ Xavier Guimard ]
+  * Bump debhelper compatibility level to 13
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Use dh-sequence-nodejs auto install
+
+ -- Xavier Guimard <yadd@debian.org>  Wed, 11 Nov 2020 11:43:52 +0100
+
+node-event-emitter (0.3.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #875749)
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 14 Sep 2017 15:22:33 +0530
