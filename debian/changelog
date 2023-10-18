@@ -1,3 +1,11 @@
+node-event-emitter (0.3.5-4) unstable; urgency=medium
+
+  * Team upload
+  * Fix filenamemangle
+  * Enable upstream test (tad, autopkgtest only)
+
+ -- Yadd <yadd@debian.org>  Fri, 08 Apr 2022 16:24:13 +0200
+
 node-event-emitter (0.3.5-3) unstable; urgency=medium
 
   * Team upload
